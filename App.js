@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { Alert, FlatList, StyleSheet, View, TouchableWithoutFeedback, Keyboard } from "react-native";
 import AddTodo from "./components/AddTodo";
-import SandBox from "./components/SandBox";
 import TodoItem from "./components/TodoItem";
 import Header from "./layout/Header";
 
